@@ -18,7 +18,10 @@ mnist_test.csv: Test set for model evaluation.
 TensorFlow and Scikit-Learn Proficiency: Gain expertise in using TensorFlow and Scikit-Learn.
 Artificial Neural Networks (ANNs) and K-NN Familiarization: Understand the fundamentals of ANNs and K-NN.
 Hyperparameter Tuning Comprehension: Explore and comprehend the concept of hyperparameter tuning.
+
+
 🛠 Approach:
+
 
 (a) Data Exploration and Preparation:
 
@@ -41,7 +44,11 @@ Save and reload the best model for testing on the mnist_test.csv data.
 
 mnist_train.csv
 mnist_test.csv
+
+
 📈 Expected Outcomes:
+
+
 By the project's conclusion, expect to achieve proficiency in TensorFlow and Scikit-Learn, grasp the intricacies of ANNs and K-NN, and master the art of hyperparameter tuning. The project's success will be measured through accurate digit classification and model evaluation metrics.
 
 🔗 Download Dataset:
