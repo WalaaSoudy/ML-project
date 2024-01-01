@@ -24,6 +24,8 @@ Experiment 1: K-Nearest Neighbors (K-NN)
 Implement K-NN algorithm for digit classification.
 Utilize grid search for hyperparameter tuning.
 Evaluate and compare results.
+
+
 Experiment 2: Artificial Neural Network (ANN)
 
 Construct and train two ANN architectures with varying parameters:
